@@ -24,6 +24,7 @@ sudo: grup2-set-default: command not found
 
 перезагрузка ВМ  
 [vagrant@kernel-update ~]$ sudo reboot  
+  
 создание образа в  packer  
 alex-linux@alexlinux:~/linux-vm$ mkdir packet  
 alex-linux@alexlinux:~/linux-vm$ cd packet  
@@ -43,3 +44,4 @@ alex-linux@alexlinux:~/linux-vm/packet/http$ ls -l
 проверка работы вм в виртуалбокс  
 
 загрузка всех данных в github  
+# less-2
